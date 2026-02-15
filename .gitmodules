@@ -1,0 +1,3 @@
+[submodule "Dicee-Game"]
+	path = Dicee-Game
+	url = https://github.com/trun0/Dicee-Game.git
